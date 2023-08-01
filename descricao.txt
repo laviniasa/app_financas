@@ -1,0 +1,20 @@
+Projeto: Aplicativo de Gerenciamento de Finanças Pessoais
+
+Descrição:
+O aplicativo de gerenciamento de finanças pessoais é uma aplicação que permite ao usuário registrar suas receitas e despesas financeiras, fornecendo um controle detalhado sobre suas finanças. Com esse projeto, você poderá aprimorar suas habilidades em manipulação de dados, trabalhar com bancos de dados e criar uma interface gráfica mais avançada.
+
+Funcionalidades:
+
+Registro de Transações: Permitir ao usuário adicionar novas transações financeiras, indicando a data, valor, descrição e se é uma receita ou despesa.
+Categorias: Possibilitar o cadastro de categorias para as transações (exemplo: alimentação, moradia, transporte, etc.).
+Visualização e Classificação: Exibir as transações em uma tabela com opção para classificar por data, valor ou categoria.
+Resumo Financeiro: Mostrar um resumo financeiro com o saldo atual, total de receitas e despesas no período selecionado.
+Gráficos: Criar gráficos (como gráfico de barras ou pizza) para visualizar a distribuição de receitas e despesas por categorias.
+Exportar Dados: Permitir que o usuário exporte os dados de suas transações para um arquivo CSV ou Excel.
+
+Implementar autenticação de usuário para proteger os dados financeiros.
+Adicionar filtros para que o usuário possa visualizar as transações por período específico.
+Criar um recurso para definir metas de gastos e alertar o usuário quando estiver se aproximando dessas metas.
+Integrar com APIs de serviços financeiros para automatizar a importação de transações.
+Benefícios:
+
